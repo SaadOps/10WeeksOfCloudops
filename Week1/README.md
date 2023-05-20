@@ -1,12 +1,15 @@
 ![S3](https://github.com/SaadOps/10WeeksOfCloudops/assets/94478736/8eaddf64-dbc7-47c2-8184-ed49dd522b68)
 
 1) Create an S3 bucket.
+
 2) Select the created bucket.
+
 3) Scroll down to the last and edit static website hosting:
    - Click on "Enable".
    - Enter "index.html" for the index document.
    - Enter "error.html" for the error document.
    - Click "Save changes".
+
 4) Go to the "Objects" tab and upload your files.
 
 5) Go to CloudFront and create a distribution:
@@ -29,10 +32,13 @@
    - Paste the CNAME value in the "Target" field (without the last dot).
 
 8) Select the custom SSL certificate in CloudFront.
+
 9) Enter "index.html" as the default root object.
+
 10) Create the CloudFront distribution.
 
 11) Copy the distributed domain name from CloudFront.
+
 12) Create a new CNAME record in Namecheap:
    - Type "www" in the "Host" field.
    - Enter the distributed domain name in the "Target" field.
