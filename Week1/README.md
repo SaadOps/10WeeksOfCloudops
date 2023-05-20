@@ -44,13 +44,13 @@
     - Enter the distributed domain name in the "Target" field.
 
 13) Create another CNAME record in Namecheap:
-   - Add your domain name to the "Host" field.
-   - Enter the distributed domain name in the "Target" field.
+    - Add your domain name to the "Host" field.
+    - Enter the distributed domain name in the "Target" field.
 
 14) Visit your domain link, and your website is live!
 
 15) To create a pipeline:
-   - Provide the source provider (GitHub, in this case).
-   - Configure the build stage (skip it, if not needed).
-   - Provide the deploy provider.
-   - Create the pipeline.
+    - Provide the source provider (GitHub, in this case).
+    - Configure the build stage (skip it, if not needed).
+    - Provide the deploy provider.
+    - Create the pipeline.
