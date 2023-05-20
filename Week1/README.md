@@ -40,8 +40,8 @@
 11) Copy the distributed domain name from CloudFront.
 
 12) Create a new CNAME record in Namecheap:
-   - Type "www" in the "Host" field.
-   - Enter the distributed domain name in the "Target" field.
+    - Type "www" in the "Host" field.
+    - Enter the distributed domain name in the "Target" field.
 
 13) Create another CNAME record in Namecheap:
    - Add your domain name to the "Host" field.
