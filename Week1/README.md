@@ -1,6 +1,6 @@
 ![S3](https://github.com/SaadOps/10WeeksOfCloudops/assets/94478736/8eaddf64-dbc7-47c2-8184-ed49dd522b68)
 
-1) Create an S3 bucket.
+### 1) Create an S3 bucket.
 
 2) Select the created bucket.
 
