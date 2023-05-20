@@ -55,4 +55,4 @@
 - Provide the deploy provider.
 - Create the pipeline.
 
-Note: In order to see the changes, you need to create an invalidation in CloudFront. CloudFront caches static content in its edge locations for a certain period of time. Only after invalidating the cache will the refreshed content be visible.
+Note: In order to see the changes, you need to create an invalidation in CloudFront. CloudFront caches static content in its edge locations for a certain period of time. Only after invalidating the cache  the refreshed content will be visible.
